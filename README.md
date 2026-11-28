@@ -15,36 +15,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fryzs/TaskBoard"><img src="assets/taskboard.png" width="100%" alt="TaskBoard screenshot" /></a>
       <h3><a href="https://github.com/Fryzs/TaskBoard">📋 TaskBoard</a></h3>
       A task manager dashboard with a dark theme: tasks with priorities and deadlines, live stats, quick editing.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fryzs/Plants-vs-Zombie"><img src="assets/pvz.png" width="100%" alt="Plants vs Zombie screenshot" /></a>
       <h3><a href="https://github.com/Fryzs/Plants-vs-Zombie">🌱 Plants vs Zombie</a></h3>
       A small tower-defense game: plant sunflowers and pea shooters, hold the lawn against waves of zombies.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fryzs/Gitar"><img src="assets/gitar.png" width="100%" alt="Gitar screenshot" /></a>
       <h3><a href="https://github.com/Fryzs/Gitar">🎸 Gitar</a></h3>
       A guitar drawn with Bézier curves — pluck a string and hear the note.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fryzs/lb10-11"><img src="assets/paint.png" width="100%" alt="Raster editor screenshot" /></a>
       <h3><a href="https://github.com/Fryzs/lb10-11">🎨 Raster editor</a></h3>
       A Paint-like editor: pencil, shapes, fill, pipette, text, copy &amp; paste and undo.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fryzs/PR8"><img src="assets/ecosystem.png" width="100%" alt="Ecosystem simulation screenshot" /></a>
       <h3><a href="https://github.com/Fryzs/PR8">🌍 Ecosystem simulation</a></h3>
       Oaks, caterpillars and spiders living, breeding and eating each other step by step.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Fryzs/MinecraftModCheker"><img src="assets/modchecker.png" width="100%" alt="Mod Checker screenshot" /></a>
       <h3><a href="https://github.com/Fryzs/MinecraftModCheker">🔄 Mod Checker</a></h3>
       Keeps a game client's mods folder in sync with a shared modpack — checks hashes, downloads only what changed.
     </td>
